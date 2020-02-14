@@ -27,7 +27,6 @@ class FlightVehicle():
     pass
 
 class Starship():
-    #base class
     pass
 
 class GroundVehicle(Vehicle):
